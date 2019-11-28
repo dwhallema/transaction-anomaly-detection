@@ -1,0 +1,8 @@
+name: transaction-anomaly-detection
+dependencies:
+  - python>=3.6
+  - scikit-learn
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
